@@ -1,0 +1,47 @@
+{
+  "providers": [
+    {
+      "id": 1,
+      "contacts": [
+        {
+          "id":1,
+          "nombre":"Juan",
+          "email":"juanito@ibm.com"
+        },
+        {
+          "id":2,
+          "nombre":"Guillermo",
+          "email":"Guillen@ibm.com"
+        },
+        {
+          "id":1,
+          "nombre":"Maria",
+          "email":"Maria@ibm.com"
+        }
+      
+      ]
+    },
+    {
+      "id": 2,
+      "contacts": [
+        {
+          "id":1,
+          "nombre":"Marco",
+          "email":"marco@ibm.com"
+        },
+        {
+          "id":2,
+          "nombre":"Fernanda",
+          "email":"fernanda@ibm.com"
+        },
+        {
+          "id":1,
+          "nombre":"Dario",
+          "email":"Dario@ibm.com"
+        }
+      
+      ]
+    }
+    
+  ]
+}
